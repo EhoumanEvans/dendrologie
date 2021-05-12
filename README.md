@@ -1,2 +1,2 @@
 # dendrologie
-woody  plant database
+woody  plants database
